@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Franco Roldan!
 
-<!--
-**FrancoRoldan/FrancoRoldan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a love for crafting efficient and scalable solutions. My journey in the tech world is driven by curiosity and a desire to learn new skills every day.
 
-Here are some ideas to get you started:
+🚀 Technologies & Tools I Work With
+Languages: C#, JavaScript, TypeScript, Dart
+Frontend Frameworks: Angular, Angular Material
+Backend: .NET Core, ASP.NET
+Mobile Development: Flutter (Web & Mobile)
+Databases: SQL Server
+Styling: PrimeFlex, Bootstrap, Angular Material
+Other Tools: Git, Visual Studio, Visual Studio Code, Postman
+🌱 What I'm Currently Working On
+I'm actively developing microservices with .NET Core and Angular, optimizing APIs, and building responsive web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 About Me
+I enjoy tackling challenges, whether it's debugging complex code or implementing new features. I'm also passionate about learning and applying the latest technologies to stay ahead in the ever-evolving tech landscape.
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
